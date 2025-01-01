@@ -1,4 +1,4 @@
-#Basic Calculator Android App
+Basic Calculator Android App
 
 Welcome to the Basic Calculator Android app! This app provides a simple and intuitive interface for performing basic arithmetic calculations.
 Features
