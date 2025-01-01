@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F5F5</color> <!-- Background color -->
+    <color name="button_primary">#BB86FC</color> <!-- Primary buttons (like numbers) -->
+    <color name="button_secondary">#808080</color> <!-- Secondary buttons (like brackets) -->
+    <color name="button_accent">#FF9800</color> <!-- Accent buttons (like operators) -->
+    <color name="button_clear">#F44336</color> <!-- Clear button (C and AC) -->
+    <color name="background_dark">#B7B7B7</color> <!-- Dark background for night theme -->
+</resources>
